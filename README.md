@@ -5,6 +5,7 @@
 - 首页：`index.html`
 - 阅读示例：`book/index.html`
 - 页面样式：`style.css`
+- 浏览器标签图标：`favicon.svg`
 
 在 GitHub 网页上打开对应文件，点击铅笔图标编辑并提交，或在本地修改后推送到 `main` 分支。GitHub Pages 构建完成后，网站会自动更新。
 
